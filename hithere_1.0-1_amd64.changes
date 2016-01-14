@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 14 Jan 2016 18:42:48 +0800
+Source: hithere
+Binary: hithere
+Architecture: source amd64
+Version: 1.0-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Lars Wirzenius <liw@liw.fi>
+Changed-By: shenme <shenme@debian>
+Description:
+ hithere    - greet user
+Changes:
+ hithere (1.0-1) UNRELEASED; urgency=medium
+ .
+   * Initial release. (Closes: #XXXXXX)
+Checksums-Sha1:
+ 8640d41bd1ff7e646461a1778d00d516583d56ac 740 hithere_1.0-1.dsc
+ 6bc2deed3896d82976f365ed573a53c9db341f55 616 hithere_1.0.orig.tar.gz
+ a616834828a4ae86ff271fb9c701b6a6d37d0900 1512 hithere_1.0-1.debian.tar.xz
+ c116e5b3ffbab1eb550e0c4ace3b8bf380a91b61 2828 hithere_1.0-1_amd64.deb
+Checksums-Sha256:
+ 529fc7907c52522800a36f3eb0ae6a6f50a68bb653d227e9ebea8da1268166d0 740 hithere_1.0-1.dsc
+ 4f6953cd79b0a3902b6df8985466a9f43a8b7a216eacffaade09c74e9d774d46 616 hithere_1.0.orig.tar.gz
+ 9595fbab3e29688f6166d889599383e7d5b2546b438d0cbc12a874cb6b18d941 1512 hithere_1.0-1.debian.tar.xz
+ 40b0f65f8a677ffc36ed38c417e0bcf2eb9db28f99133256346ee84d6119ed92 2828 hithere_1.0-1_amd64.deb
+Files:
+ 2a44357cb3b023ea2797a3889403e47e 740 misc optional hithere_1.0-1.dsc
+ ab5c2cd79977e35545ccdf10c513cd66 616 misc optional hithere_1.0.orig.tar.gz
+ 6c4727f2be4cbbeacffb946ec3f08902 1512 misc optional hithere_1.0-1.debian.tar.xz
+ cf7b5369eb4a67bd8fba04d3eec5ca17 2828 misc optional hithere_1.0-1_amd64.deb
